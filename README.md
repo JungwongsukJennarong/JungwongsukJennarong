@@ -2,7 +2,7 @@
 - 🌱 I’m currently studying in OUHK as a computing degree student
 - 💞️ I’m looking for opportunity to really getting start my career
 - 📫 How to reach me: 
-email: jungwongsukjennarong@gmail.com\n
+email: jungwongsukjennarong@gmail.com
 linkedin: linkedin.com/in/jungwongsuk-jungwongsuk-ab27a6207
 
 <!---
