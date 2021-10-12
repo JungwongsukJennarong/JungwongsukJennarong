@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JungwongsukJennarong
-- 🌱 I’m currently studying in OUHK as a computing degree student
+- 👋 Hey there, I’m @JungwongsukJennarong
+- 🌱 I’m recently graduate in OUHK with computing degree
 - 💞️ I’m looking for opportunity to really getting start my career
 - 📫 How to reach me: 
 email: jungwongsukjennarong@gmail.com
