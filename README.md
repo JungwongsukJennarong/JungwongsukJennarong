@@ -1,6 +1,5 @@
-- 👋 Hey there, I’m @JungwongsukJennarong
-- 🌱 I’m recently graduate in OUHK with computing degree
-- 💞️ I’m looking for opportunity to really getting start my career
+- 👋 Hey there, I’m @JungwongsukJennarong (Call me Max anyway)
+- 🌱 QA in Accedo
 - 📫 How to reach me: 
 email: jungwongsukjennarong@gmail.com
 linkedin: linkedin.com/in/jennarong-jungwongsuk-ab27a6207
