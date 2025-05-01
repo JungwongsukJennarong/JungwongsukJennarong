@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m @JungwongsukJennarong (You can call me Max)
+- 👋 Hey there, I’m @JungwongsukJennarong (or Max)
 - 🌱 Currently as a QA engineer in Accedo
 - 📫 How to reach me: 
 email: jungwongsukjennarong@gmail.com
