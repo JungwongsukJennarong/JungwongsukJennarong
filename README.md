@@ -1,5 +1,5 @@
-- 👋 Hey there, I’m @JungwongsukJennarong (Call me Max anyway)
-- 🌱 QA in Accedo
+- 👋 Hey there, I’m @JungwongsukJennarong (You can call me Max)
+- 🌱 Currently as a QA engineer in Accedo
 - 📫 How to reach me: 
 email: jungwongsukjennarong@gmail.com
 linkedin: linkedin.com/in/jennarong-jungwongsuk-ab27a6207
