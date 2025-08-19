@@ -3,7 +3,7 @@
 - Sometimes will do development for learning and for fun
 - 📫 How to reach me: 
 email: jungwongsukjennarong@gmail.com
-linkedin: linkedin.com/in/jennarong-jungwongsuk-ab27a6207
+linkedin: https://www.linkedin.com/in/max-jungwongsuk-ab27a6207
 
 <!---
 JungwongsukJennarong/JungwongsukJennarong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
